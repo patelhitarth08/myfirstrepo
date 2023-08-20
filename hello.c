@@ -4,7 +4,7 @@ int main()
 {
     printf("Hello World...!");
 
-    printf("Call me Om chikhaliya...");
+    printf("Call me Mahi not om chikhaliya");
 
     return 0;
 }
